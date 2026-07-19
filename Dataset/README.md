@@ -1,15 +1,11 @@
 # Dataset
 
 This folder contains the dataset used for the Customer Retail Segmentation project.
-
-## Dataset
-
 - **Name:** Mall Customers Dataset
 - **Format:** CSV
 - **File:** Mall_Customers.csv
 
 ## Features
-
 - CustomerID
 - Gender
 - Age
